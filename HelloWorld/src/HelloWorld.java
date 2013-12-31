@@ -9,7 +9,6 @@ public class HelloWorld {
 		System.out.append("H").append("i");
 		System.out.println(" There");
 		System.out.println("Oops!");
-//		System.out.println(args[0]);
 		
 		i=0;
 		while (i < args.length) {
